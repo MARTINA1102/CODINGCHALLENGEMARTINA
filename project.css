@@ -1,0 +1,89 @@
+body{
+  background-image:url(background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position: top;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.container{
+  margin:70px 1200px 0px 1200px;
+  padding: 242px 250px;
+  border-radius: 50px;
+  background-color: rgb(13,13,13);
+  background-color: rgba(13,13,13,0.67);
+}
+
+header{
+  text-align: center;
+}
+
+.logo{
+  width: 630px;
+}
+
+
+.logotext{
+  font-weight: bolder;
+  font-size: 75px;
+  color: lime;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+
+.pulsanti{
+  background-color: lime;
+  padding: 25px 50px;
+  text-align: center;
+}
+button{
+  font-size: 32px;
+  font-stretch: ultra-expanded;
+  padding: 7px 30px;
+  margin-left: 5px;
+  border-radius: 10%;
+  border-color: lightgray;
+}
+
+h2{
+  font-weight: bolder;
+  font-stretch: ultra-expanded;
+  font-size: 53px;
+  margin-bottom: 0;
+  letter-spacing: 5px;
+}
+
+span,p{
+  font-weight: 500;
+  font-stretch: ultra-expanded;
+  font-size: 40px;
+  margin: 0;
+  letter-spacing: 1px;
+}
+
+.green,.red,.orange{
+  padding: 30px;
+  border-radius: 20px;
+  margin-left: 0;
+  margin-bottom: 90px;
+}
+
+.orange{
+  width: 820px;
+  background-color: #DAA520;
+  border: 10px solid #DAA520;
+}
+
+.green{
+  width: 1450px;
+  background-color: limegreen;
+  border: 10px solid limegreen;
+}
+
+.red{
+  width: 300px;
+  background-color: brown;
+  border: 10px solid brown;
+}
